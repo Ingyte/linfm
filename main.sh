@@ -7,6 +7,7 @@ echo "
 │ @@@###@@# LinFM                                 │
 │ @@@@@@@@@ A file manager, in your command line. │
 │ Made with <3 by [I> (Icycoide)                  │
+│ Included in the Ingyte Suite                    │
 └─────────────────────────────────────────────────┘ 
 "
 sleep 3
